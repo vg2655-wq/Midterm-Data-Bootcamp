@@ -1,5 +1,5 @@
 # Midterm-Data-Bootcamp
-This midterm project for data bootcamp section 001 is by Vaasu Gadiparthi, Ben Gelchinsky, and Ethan Hu
+This midterm project for data bootcamp section 001 is by Vaasu Gadiparthi, Ben Gelchinsky, and Ethan Hu (Tun-Hung Hu)
 
 Our primary work pulls data from the yfinance library and by webscraping for streaming service companies' financial and fundamental information
 
